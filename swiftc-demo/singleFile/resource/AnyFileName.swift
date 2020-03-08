@@ -1,0 +1,1 @@
+print("swiftc a single file just like playground")
